@@ -44,7 +44,7 @@ print(">>>> Starting to install!\n")
 
 setup(
     name='fa2',
-    version='0.3.5-j',
+    version='0.3.4',
     description='The fastest (now multi-threaded!) ForceAtlas2 algorithm for Python (and NetworkX)',
     long_description_content_type='text/markdown',
     long_description=long_description,
